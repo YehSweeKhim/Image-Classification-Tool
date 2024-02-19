@@ -1,0 +1,8 @@
+Keras
+opencv-python-headless
+streamlit
+fastapi
+uvicorn
+numpy
+tensorflow
+python-multipart
