@@ -25,12 +25,12 @@ The Image Classification Tool is a web application that utilizes the ResNet50 mo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/object-classifier-web-app.git
+git clone https://github.com/YehSweeKhim/Image-Classification-Tool.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd image-classification-tool
+cd Image-Classification-Tool
 ```
 
 3. Build and run the Docker containers:
